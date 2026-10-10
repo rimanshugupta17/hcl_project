@@ -3,7 +3,7 @@ from .db import conn
 from .config import TOP_K
 from .rag import search
 from .rag import sections
-STOPWORDS={'the','and','for','with','what','how','are','can','you','your','from','this','that','about','exam','examination','student','students'}
+STOPWORDS={'the','and','for','with','what','how','are','can','you','your','from','this','that','about','exam','examination','student','students','there'}
 def retrieve(question):
     """Hybrid global retrieval: vector candidates plus deterministic lexical reranking.
 
