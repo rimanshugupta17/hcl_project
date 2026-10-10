@@ -12,7 +12,7 @@ All 30 students are synthetic (`S1001`–`S1030`), across BTECH_CSE and BTECH_EC
 
 Synthetic regulations, examination rules, attendance circulars, and a department notice include versions, effective dates, authority levels, and a supersession relationship. They are not real university policy.
 
-## Privacy and limitations
+## Privacy and limitations and errors
 
 No real personal data is used. These documents and decisions are demo-only and must not be used for actual academic decisions.
 
